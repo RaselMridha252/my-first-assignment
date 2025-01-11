@@ -333,5 +333,82 @@
     font-size: 18px;
 }
 
+/* donate */
+
+.donate{
+    margin-top: 80px;
+    margin-right: 160px;
+    margin-left: 160px;
+}
+
+.donate-heading{
+    font-size: 40px;
+    text-align: center;
+}
+
+.d-para{
+    font-size: 16px;
+    text-align: center;
+    padding-top: 24px;
+}
+
+.taka-card{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding-top: 32px;
+}
+
+.take-tow{
+    background-color: #C6E4D6;
+    padding: 40px 20px 40px 20px;
+    border-radius: 16px;
+    font-size: 40px;
+    margin: auto;
+}
+
+.taka-one-two-three{
+    font-size: 40px;
+    padding: 40px 20px 40px 20px;
+    background-color: #fcf8f8;
+    border-radius: 16px;
+    margin: auto;
+
+}
+
+.other-amount{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.other{
+    background-color: #fcf8f8;
+    border: 0 solid;
+    text-align: center;
+    padding: 20px 422px 20px 422px;
+    margin-top: 32px;
+    margin-right: 124px;
+    margin-left: 124px;
+    font-size: 20px;
+    
+}
+
+.done-now{
+    justify-content: center;
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.btn{
+    padding: 17px 34px 17px 34px;
+    border-radius: 8px;
+    background-color: #006A50;
+    color: white;
+    border: 0 solid;
+    font-size: 18px;
+    margin-top: 32px;
+}
+
 
 
