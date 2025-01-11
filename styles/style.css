@@ -487,5 +487,28 @@
 .btn-1:hover{
     background-color: brown;  
 }
+/* yunus */
+
+.yunus{
+    margin: 32px 160px 80px 160px;
+    padding: 48px 24px 48px 24px;
+    background-color: #fcf8f8;
+    border-radius: 16px;
+    background-image: url(../images/assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+}
+.yunus-p{
+    font-size: 16px;
+    margin-top: 24px;
+}
+.dr-muhammad-yunus{
+    font-size: 20px;
+    margin-top: 12px;
+}
+
+.yunus-p-two{
+    font-size: 16px;
+}
 
 
