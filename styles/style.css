@@ -154,13 +154,14 @@
     padding-bottom: 117px;
 }
 .bagla{
-    
-    /* font-size: 24px; */
+    color: rgba(32, 31, 31, 0.582);
+    font-size: 24px;
 }
 
 .vision{
     
     font-size: 56px;
+    
     
 }
 .img{
@@ -410,5 +411,46 @@
     margin-top: 32px;
 }
 
+/* subscribe-newsletter */
+
+.subscribe-newsletter{
+    background-color: #C6E4D6;
+    margin-right: 160px;
+    margin-left: 160px;
+    border-radius: 24px;
+    padding: 80px 100px 80px 100px;
+}
+
+.sub-news{
+    text-align: center;
+    font-size: 40px;
+}
+
+.sub-news-p{
+    text-align: center;
+    font-size: 16px;
+    padding-top: 16px;
+}
+
+.emali-box{
+    text-align: center;
+    
+}
+
+.your-email{
+    border-radius: 8px 0 0 8px;
+    padding: 18px 403px 18px 40px;
+    border: 0 solid;
+    margin-top: 24px;
+}
+
+.subscribe-btn{
+    font-size: 18px;
+    background-color: #006A50;
+    color: white;
+    padding: 15px 34px 15px 34px;
+    border-radius: 0 8px 8px 0;
+    border: 0 solid;
+}
 
 
